@@ -1,4 +1,4 @@
-# REST api endpointsCancel changes
+# REST api endpoints
 
 To list all properties "/api/property/list/"
 
